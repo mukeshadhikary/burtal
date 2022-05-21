@@ -15,10 +15,6 @@ Brutal is a toolkit to quickly create various payload,powershell attack , virus 
 <img src="https://cloud.githubusercontent.com/assets/17976841/20054455/a43d8358-a50f-11e6-90a6-c967a9d3a43f.png" width="60%"></img> 
 
 
-### Donate
-- If this project very help you to penetration testing  and u want support me , you can give me a cup of coffee :)
-- [![Donation](https://img.shields.io/badge/bitcoin-donate-yellow.svg)](https://blockchain.info/id/address/1NuNTXo7Aato7XguFkvwYnTAFV2immXmjS)
-
 
 ## Screenshoot
 <img src="https://cloud.githubusercontent.com/assets/17976841/20054499/bc2d91ec-a50f-11e6-8a2a-eb9aa029e40b.png" width="32%"></img> 
@@ -83,17 +79,6 @@ Be sure to check out the [Changelog] and Read CHANGELOG.md
 - Addres Bitcoin : 1NuNTXo7Aato7XguFkvwYnTAFV2immXmjS
 
 - <img src="https://cloud.githubusercontent.com/assets/17976841/25007109/75380fa6-2089-11e7-8a4a-4a8ae9c06e24.png" width="30%"></img>
-
-
-## :octocat: Credits
-
-- Thanks to allah and Screetsec [ Edo -maland- ] <Me> 
-- Dracos Linux from Scratch Indonesia ( Awesome Penetration os ), you can see in http://dracos-linux.org/ 
-- Offensive Security for the awesome OS ( http://www.offensive-security.com/ )
-- http://www.kali.org/
-- Jack Wilder admin in http://www.linuxsec.org
-- And another open sources tool in github
-- Uptodate new tools hacking visit http://www.kitploit.com
 
 ## Disclaimer
 
